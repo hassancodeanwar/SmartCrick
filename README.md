@@ -7,7 +7,7 @@
 
 
 <aside>
-<img src="/icons/document_yellow.svg" alt="/icons/document_yellow.svg" width="40px" />
+
 
 # 🧩 Problem Statement
 
@@ -28,7 +28,6 @@ To develop a computer vision-based system that detects players and ball movement
 </aside>
 
 <aside>
-<img src="/icons/document_yellow.svg" alt="/icons/document_yellow.svg" width="40px" />
 
 ## 📄 Software Requirements Specification (SRS)
 
